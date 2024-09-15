@@ -73,7 +73,7 @@ body {
     font-weight: normal;
     font-family: Arial, sans-serif;
     color: #1b5e20;
-    transform: rotate(var(--rotation)) translateY(-85px) rotate(calc(-1 * var(--rotation)));
+    transform: rotate(var(--rotation)) translateY(-75px) rotate(calc(-1 * var(--rotation)));
 }
 
 .number span {
